@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "klinecharts": "10.0.0-beta1"
+  },
+  "title": "蜡烛类型 | KLineChart - klinecharts@10.0.0-beta1",
+  "name": "klinechart-klinecharts1000-beta1-forked",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
